@@ -1,0 +1,2 @@
+alpaca-mcp-server==2.4.0
+fastmcp==3.4.7
